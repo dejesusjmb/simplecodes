@@ -1,4 +1,5 @@
 #include <iostream>
+//This program prints a multiplication table but without using any loops. Recursion is used instead.
 
 int printRow(int count, int max)
 {
